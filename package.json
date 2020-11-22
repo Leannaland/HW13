@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "burger app",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leannaland/HW13.git"
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "Leanna Land",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leannaland/HW13/issues"
+  },
+  "homepage": "https://github.com/Leannaland/HW13#readme",
+  "dependencies": {
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
+}
